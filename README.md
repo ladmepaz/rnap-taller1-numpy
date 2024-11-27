@@ -76,13 +76,11 @@ El cuaderno será evaluado con base en:
 ## Recursos
 
 - Accede al material desde el enlace proporcionado.
-- Refiérete a la documentación oficial de NumPy: [NumPy Documentation](https://numpy.org/doc/stable/).
+- Documentación oficial de NumPy: [NumPy Documentation](https://numpy.org/doc/stable/).
 
 ---
 
 ## Contacto
-
-Si tienes dudas sobre la asignación, no dudes en comunicarte con los profesores responsables:
 
 - **Prof. José Francisco Ruiz Muñoz**: jfruizmu@unal.edu.co
 - **Prof. Richard Rios Patiño**: rriospa@unal.edu.co
